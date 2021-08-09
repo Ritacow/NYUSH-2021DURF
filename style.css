@@ -2,7 +2,7 @@
 
 
 //Edit these
-$farColor: #ffe4c7;
+$farColor: #fffff;
 $nearColor: darken(cyan,30%);
 $layer: 7; //make sure it is +1 the ammount of layer divs in the html
 $perspective: 1;
